@@ -1,0 +1,17 @@
+C:\Users\albin\OneDrive\Рабочий стол\исрпо_6\4338Group\4338Project\4338Project\bin\Debug\4338Project.exe.config
+C:\Users\albin\OneDrive\Рабочий стол\исрпо_6\4338Group\4338Project\4338Project\bin\Debug\4338Project.exe
+C:\Users\albin\OneDrive\Рабочий стол\исрпо_6\4338Group\4338Project\4338Project\bin\Debug\4338Project.pdb
+C:\Users\albin\OneDrive\Рабочий стол\исрпо_6\4338Group\4338Project\4338Project\obj\Debug\4338Project.csproj.AssemblyReference.cache
+C:\Users\albin\OneDrive\Рабочий стол\исрпо_6\4338Group\4338Project\4338Project\obj\Debug\Kuznetsova_4338.g.cs
+C:\Users\albin\OneDrive\Рабочий стол\исрпо_6\4338Group\4338Project\4338Project\obj\Debug\MainWindow.g.cs
+C:\Users\albin\OneDrive\Рабочий стол\исрпо_6\4338Group\4338Project\4338Project\obj\Debug\App.g.cs
+C:\Users\albin\OneDrive\Рабочий стол\исрпо_6\4338Group\4338Project\4338Project\obj\Debug\4338Project_MarkupCompile.cache
+C:\Users\albin\OneDrive\Рабочий стол\исрпо_6\4338Group\4338Project\4338Project\obj\Debug\4338Project_MarkupCompile.lref
+C:\Users\albin\OneDrive\Рабочий стол\исрпо_6\4338Group\4338Project\4338Project\obj\Debug\MainWindow.baml
+C:\Users\albin\OneDrive\Рабочий стол\исрпо_6\4338Group\4338Project\4338Project\obj\Debug\Kuznetsova_4338.baml
+C:\Users\albin\OneDrive\Рабочий стол\исрпо_6\4338Group\4338Project\4338Project\obj\Debug\4338Project.g.resources
+C:\Users\albin\OneDrive\Рабочий стол\исрпо_6\4338Group\4338Project\4338Project\obj\Debug\_4338Project.Properties.Resources.resources
+C:\Users\albin\OneDrive\Рабочий стол\исрпо_6\4338Group\4338Project\4338Project\obj\Debug\4338Project.csproj.GenerateResource.cache
+C:\Users\albin\OneDrive\Рабочий стол\исрпо_6\4338Group\4338Project\4338Project\obj\Debug\4338Project.csproj.CoreCompileInputs.cache
+C:\Users\albin\OneDrive\Рабочий стол\исрпо_6\4338Group\4338Project\4338Project\obj\Debug\4338Project.exe
+C:\Users\albin\OneDrive\Рабочий стол\исрпо_6\4338Group\4338Project\4338Project\obj\Debug\4338Project.pdb

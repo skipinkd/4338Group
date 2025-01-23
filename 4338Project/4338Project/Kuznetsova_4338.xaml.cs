@@ -10,25 +10,24 @@ using System.Windows.Documents;
 using System.Windows.Input;
 using System.Windows.Media;
 using System.Windows.Media.Imaging;
-using System.Windows.Navigation;
 using System.Windows.Shapes;
 
 namespace _4338Project
 {
     /// <summary>
-    /// Логика взаимодействия для MainWindow.xaml
+    /// Логика взаимодействия для Kuznetsova_4338.xaml
     /// </summary>
-    public partial class MainWindow : Window
+    public partial class Kuznetsova_4338 : Window
     {
-        public MainWindow()
+        public Kuznetsova_4338()
         {
             InitializeComponent();
         }
 
-        private void myButton_Click(object sender, RoutedEventArgs e)
+        private void Button_Click(object sender, RoutedEventArgs e)
         {
-            Kuznetsova_4338 albina = new Kuznetsova_4338();
-            albina.Show();
+            MessageBox.Show("Прикиньте, меня зовут Альбина, мне 19 годиков!",
+                  "Внимание");
         }
     }
 }
