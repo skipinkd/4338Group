@@ -26,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -41,17 +41,13 @@
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
-            },
-            {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Kuznetsova_4338.xaml.cs",
               "DocumentMoniker": "C:\\Users\\albin\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0438\u0441\u0440\u043F\u043E_6\\4338Group\\4338Project\\4338Project\\Kuznetsova_4338.xaml.cs",
               "RelativeDocumentMoniker": "4338Project\\Kuznetsova_4338.xaml.cs",
-              "ToolTip": "C:\\Users\\albin\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0438\u0441\u0440\u043F\u043E_6\\4338Group\\4338Project\\4338Project\\Kuznetsova_4338.xaml.cs",
-              "RelativeToolTip": "4338Project\\Kuznetsova_4338.xaml.cs",
+              "ToolTip": "C:\\Users\\albin\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0438\u0441\u0440\u043F\u043E_6\\4338Group\\4338Project\\4338Project\\Kuznetsova_4338.xaml.cs*",
+              "RelativeToolTip": "4338Project\\Kuznetsova_4338.xaml.cs*",
               "ViewState": "AgIAAAoAAAAAAAAAAAAuwB0AAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-23T22:23:50.32Z",
@@ -63,11 +59,15 @@
               "Title": "Kuznetsova_4338.xaml",
               "DocumentMoniker": "C:\\Users\\albin\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0438\u0441\u0440\u043F\u043E_6\\4338Group\\4338Project\\4338Project\\Kuznetsova_4338.xaml",
               "RelativeDocumentMoniker": "4338Project\\Kuznetsova_4338.xaml",
-              "ToolTip": "C:\\Users\\albin\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0438\u0441\u0440\u043F\u043E_6\\4338Group\\4338Project\\4338Project\\Kuznetsova_4338.xaml",
-              "RelativeToolTip": "4338Project\\Kuznetsova_4338.xaml",
+              "ToolTip": "C:\\Users\\albin\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0438\u0441\u0440\u043F\u043E_6\\4338Group\\4338Project\\4338Project\\Kuznetsova_4338.xaml*",
+              "RelativeToolTip": "4338Project\\Kuznetsova_4338.xaml*",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2025-01-23T22:21:11.766Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
             },
             {
               "$type": "Document",
@@ -75,8 +75,8 @@
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "C:\\Users\\albin\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0438\u0441\u0440\u043F\u043E_6\\4338Group\\4338Project\\4338Project\\MainWindow.xaml",
               "RelativeDocumentMoniker": "4338Project\\MainWindow.xaml",
-              "ToolTip": "C:\\Users\\albin\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0438\u0441\u0440\u043F\u043E_6\\4338Group\\4338Project\\4338Project\\MainWindow.xaml",
-              "RelativeToolTip": "4338Project\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\albin\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0438\u0441\u0440\u043F\u043E_6\\4338Group\\4338Project\\4338Project\\MainWindow.xaml*",
+              "RelativeToolTip": "4338Project\\MainWindow.xaml*",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2025-01-11T16:36:47.878Z",
               "EditorCaption": ""
@@ -87,8 +87,8 @@
               "Title": "MainWindow.xaml.cs",
               "DocumentMoniker": "C:\\Users\\albin\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0438\u0441\u0440\u043F\u043E_6\\4338Group\\4338Project\\4338Project\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "4338Project\\MainWindow.xaml.cs",
-              "ToolTip": "C:\\Users\\albin\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0438\u0441\u0440\u043F\u043E_6\\4338Group\\4338Project\\4338Project\\MainWindow.xaml.cs",
-              "RelativeToolTip": "4338Project\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\albin\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0438\u0441\u0440\u043F\u043E_6\\4338Group\\4338Project\\4338Project\\MainWindow.xaml.cs*",
+              "RelativeToolTip": "4338Project\\MainWindow.xaml.cs*",
               "ViewState": "AgIAAAsAAAAAAAAAAAAuwBMAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-11T16:36:47.433Z",
