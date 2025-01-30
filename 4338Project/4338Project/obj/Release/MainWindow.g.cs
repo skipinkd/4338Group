@@ -51,20 +51,10 @@ namespace _4338Project {
         
         #line 30 "..\..\MainWindow.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
-        internal System.Windows.Controls.Button AdelButton;
-        
-        #line default
-        #line hidden
-
-           
-        #line 31 "..\..\MainWindow.xaml"
-        [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Button AidarInfoButton;
-
         
         #line default
         #line hidden
-        
         
         private bool _contentLoaded;
         
@@ -106,19 +96,9 @@ namespace _4338Project {
             #line hidden
             return;
             case 2:
-            this.AdelButton = ((System.Windows.Controls.Button)(target));
-            
-            #line 30 "..\..\MainWindow.xaml"
-            this.AdelButton.Click += new System.Windows.RoutedEventHandler(this.myButton_Click_Adel);
-            
-            
-            #line default
-            #line hidden
-            return;
-            case 3:
             this.AidarInfoButton = ((System.Windows.Controls.Button)(target));
             
-            #line 31 "..\..\MainWindow.xaml"
+            #line 30 "..\..\MainWindow.xaml"
             this.AidarInfoButton.Click += new System.Windows.RoutedEventHandler(this.AidarInfoButton_Click);
             
             #line default
