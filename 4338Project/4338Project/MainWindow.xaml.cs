@@ -43,5 +43,12 @@ namespace _4338Project
             Salikhzyanov_4338 aidar = new Salikhzyanov_4338(); 
             aidar.Show();
         }
+
+        private void AmirInfoButton_Click(object sender, RoutedEventArgs e)
+        {
+            Nasyybullin_4338 nasyybullin_4338 = new Nasyybullin_4338();
+            nasyybullin_4338.Show();
+            this.Hide();
+        }
     }
 }
