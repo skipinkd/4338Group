@@ -26,7 +26,7 @@ namespace _4338Project
 
         private void Amir_Click(object sender, RoutedEventArgs e)
         {
-            MessageBox.Show("Хеллоу, меня зовут Амир, мне 18");
+            MessageBox.Show("Хеллоу, меня зовут Амир, мне 18, всем пока!");
         }
     }
 }
