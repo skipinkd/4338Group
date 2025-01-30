@@ -30,5 +30,12 @@ namespace _4338Project
             Kuznetsova_4338 albina = new Kuznetsova_4338();
             albina.Show();
         }
+
+        private void myButton_Click_Adel(object sender, RoutedEventArgs e)
+        {
+            Yusupov_4338 yusupov_4338 = new Yusupov_4338();
+            yusupov_4338.Show();
+            this.Hide();
+        }
     }
 }
