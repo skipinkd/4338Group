@@ -28,6 +28,7 @@
         </Grid.RowDefinitions>
         <Button Name="myButton" Content="Кузнецова Альбина" Width="150" Height="30" Click="myButton_Click" Grid.Row="7" Margin="325,25,325,0" Grid.RowSpan="3" VerticalAlignment="Top"/>
         <Button Name="AdelButton" Content="Юсупов Адель" Width="150" Height="30" Click="myButton_Click_Adel" Grid.Row="16"/>
-        <Button Name="AidarInfoButton" Width="150" Height="30" Content="Салихзянов Айдар" Click="AidarInfoButton_Click" Grid.Row="0"/>
+        <Button Name="AidarInfoButton" Width="150" Height="30" Content="Салихзянов Айдар" Click="AidarInfoButton_Click" Grid.Row="13"/>
+        <Button Name="AmirInfoButton" Width="150" Height="30" Content="Насыйбуллин Амир" Click="AmirInfoButton_Click" Grid.Row="10"/>
     </Grid>
 </Window>
