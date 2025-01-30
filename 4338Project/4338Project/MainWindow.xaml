@@ -27,5 +27,6 @@
             <RowDefinition Height="*" />
         </Grid.RowDefinitions>
         <Button Name="myButton" Content="Кузнецова Альбина" Width="150" Height="30" Click="myButton_Click" Grid.Row="8"/>
+        <Button Name="AidarInfoButton" Width="150" Height="30" Content="Салихзянов Айдар" Click="AidarInfoButton_Click" Grid.Row="0"/>
     </Grid>
 </Window>

@@ -30,5 +30,11 @@ namespace _4338Project
             Kuznetsova_4338 albina = new Kuznetsova_4338();
             albina.Show();
         }
+
+        private void AidarInfoButton_Click(object sender, RoutedEventArgs e)
+        {
+            Salikhzyanov_4338 aidar = new Salikhzyanov_4338(); 
+            aidar.Show();
+        }
     }
 }

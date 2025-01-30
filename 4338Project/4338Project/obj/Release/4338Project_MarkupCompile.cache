@@ -4,11 +4,11 @@
 winexe
 C#
 .cs
-C:\Users\Айдар\Desktop\4338Group\4338Project\4338Project\obj\Debug\
+C:\Users\Айдар\Desktop\4338Group\4338Project\4338Project\obj\Release\
 _4338Project
 none
 false
-DEBUG;TRACE
+TRACE
 C:\Users\Айдар\Desktop\4338Group\4338Project\4338Project\App.xaml
 3-1861158202
 
@@ -16,5 +16,5 @@ C:\Users\Айдар\Desktop\4338Group\4338Project\4338Project\App.xaml
 13-38814620
 Kuznetsova_4338.xaml;MainWindow.xaml;Salikhzyanov_4338.xaml;
 
-False
+True
 
