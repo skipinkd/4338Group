@@ -50,5 +50,11 @@ namespace _4338Project
             nasyybullin_4338.Show();
             this.Hide();
         }
+
+        private void Button_Click_Ksen(object sender, RoutedEventArgs e)
+        {
+            Borisova_4338 ksen = new Borisova_4338();
+            ksen.Show();
+        }
     }
 }
