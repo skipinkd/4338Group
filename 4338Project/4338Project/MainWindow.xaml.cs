@@ -58,7 +58,7 @@ namespace _4338Project
         }
 
         private void KirillButton_Click(object sender, RoutedEventArgs e)
-        {S
+        {
             SkipinKD_4338 skipinKD_4338 = new SkipinKD_4338();
             skipinKD_4338.Show();
         }
